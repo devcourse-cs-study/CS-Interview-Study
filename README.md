@@ -1,5 +1,45 @@
 # CS-Interview-Study
 ## 스터디 소개 
+- ### 멤버
+
+<table>
+  <tr>
+    <td>
+        <a href="https://github.com/suy2on">
+            <img src="https://avatars.githubusercontent.com/u/62363580?v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/Nnagman">
+            <img src="https://avatars.githubusercontent.com/u/16336810?v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/pppp0722">
+            <img src="https://avatars.githubusercontent.com/u/60428537?v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/ChoiYeonho0903">
+            <img src="https://avatars.githubusercontent.com/u/76257508?v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/su-pernova">
+            <img src="https://avatars.githubusercontent.com/u/48689213?v=4" width="100px" />
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>이수연</b></td>
+    <td><b>이창호</b></td>
+    <td><b>이일환</b></td>
+    <td><b>최연호</b></td>
+    <td><b>김수미</b></td>
+  </tr>
+</table>
+
+
 - ### 스터디 주제 순서
 ```
 OS → 네트워크 → DB → JAVA → 자료구조/알고리즘
