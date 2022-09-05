@@ -1,5 +1,5 @@
 <details>
-<summary><b>운영체제 개요</summary>
+<summary><b>운영체제 개요</b></summary>
 <div markdown="1">
 <br>
 
