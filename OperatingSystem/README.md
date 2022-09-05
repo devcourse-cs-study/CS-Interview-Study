@@ -1,7 +1,6 @@
 <details>
 <summary><b>운영체제 개요</b></summary>
 <div markdown="1">
-<br>
 
 - 운영체제 소개
 - 운영체제 필요성
@@ -13,7 +12,6 @@
 <details>
 <summary><b>운영체제 구조</b></summary>
 <div markdown="1">
-<br>
 
 - 커널
 - 시스템 호출
@@ -23,7 +21,6 @@
 <details>
 <summary><b>프로세스</b></summary>
 <div markdown="1">
-<br>
 
 - 프로세스 개념
 - 프로세스 상태
@@ -36,7 +33,6 @@
 <details>
 <summary><b>스레드</b></summary>
 <div markdown="1">
-<br>
 
 - 스레드 개념
 - 멀티스레드의 구조
